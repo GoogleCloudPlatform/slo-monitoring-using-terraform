@@ -15,7 +15,7 @@
 variable "project_id" {
   description = "What is the Project ID of the project?"
   type        = string
-  default     = "eventbrite-salesforce"
+  default     = "my-project"
 }
 
 variable "service_display_name" {
